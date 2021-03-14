@@ -3,6 +3,7 @@ bin/
 .metadata
 tmp/
 *.tmp
+*.jar
 *.bak
 *.swp
 *~.nib
